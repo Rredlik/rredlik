@@ -1,10 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rredlik&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rredlik&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a><br><br>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Rredlik&show_icons=true&theme=synthwave)
-
-# Profile views counter
+![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)<br>
 ![Visitor Count](https://profile-counter.glitch.me/{Rredlik}/count.svg)
 
 <!--
