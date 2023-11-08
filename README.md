@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
+![My stats](https://github-readme-stats.vercel.app/api?username=Rredlik&show_icons=true&theme=synthwave)
+
 # Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Rredlik}/count.svg)
 
