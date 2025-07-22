@@ -9,6 +9,7 @@
 
 ![](https://www.codewars.com/users/Rredlik/badges/large)<br><br>
 ![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)<br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skidikis)
 
 <!--
 **Rredlik/rredlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
