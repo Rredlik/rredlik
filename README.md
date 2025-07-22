@@ -8,8 +8,7 @@
 </a><br><br>
 
 ![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)<br>
-![Visitor Count](https://profile-counter.glitch.me/{Rredlik}/count.svg)
-
+![](https://www.codewars.com/users/Rredlik/badges/large)
 <!--
 **Rredlik/rredlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
