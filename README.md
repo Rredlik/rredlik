@@ -1,6 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Rredlik" /> </p>
-<!-- ![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)<br> -->
+
+[![Hello](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=DD39F7&width=435&lines=Hi+there;I'am+rredlik)](https://git.io/typing-svg)
+
+<!--
+<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+-->
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rredlik&show_icons=true&theme=radical" />
