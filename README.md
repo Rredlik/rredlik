@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rredlik&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a><br><br>
 
-![](https://www.codewars.com/users/Rredlik/badges/large)<br>
+![](https://www.codewars.com/users/Rredlik/badges/large)<br><br>
 ![](https://komarev.com/ghpvc/?username=Rredlik&color=blueviolet&style=plastic&label=PROFILE+VIEWS)<br>
 
 <!--
